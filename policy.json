@@ -1,0 +1,1 @@
+{"policy_version":"1.0","requirements":[{"id":"eval.passed","event_type":"evaluation","field":"result","equals":"passed"},{"id":"risk.approved","event_type":"risk_review","field":"result","equals":"approved"},{"id":"human.approved","event_type":"human_approval","field":"result","equals":"approved"}]}
